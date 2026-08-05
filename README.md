@@ -35,7 +35,7 @@ Stock OS Mod Updater is a professional-grade firmware update tool designed for c
 ### Basic Operation
 
 1. **Running the Updater**:
-   - Place the application files in the appropriate directory (typically /mnt/mmc/Roms/APPS/)
+   - Place the application files in the appropriate directory (typically /mnt/mmc/Roms/PORTS/)
    - The application will automatically detect your hardware model
 
 2. **Navigation**:
