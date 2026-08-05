@@ -66,7 +66,7 @@ The application automatically detects system language settings. To manually chan
 ## Building and Customization
 
 ### Project Structure
-- `upgrade.py`: Main application entry point
+- `main.py`: Main application entry point
 - `lang/`: Directory containing language JSON files
 - `font/`: Directory containing font files
 
@@ -96,11 +96,11 @@ The UI rendering is handled by the `UIRenderer` class. You can modify:
    - Try again with a stable internet connection
 
 3. **Application Crashes**:
-   - Check the log file at `/tmp/update.log` for error details
+   - Check the log file at `update.log` for error details
 
 ### Logs
 
-The application generates detailed logs in `/tmp/update.log` which can be helpful for debugging issues.
+The application generates detailed logs in `update.log` which can be helpful for debugging issues.
 
 ## License
 
