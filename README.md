@@ -18,12 +18,13 @@ Stock OS Mod Updater is a professional-grade firmware update tool designed for c
 - RGcubexx
 - RG34xx / RG34xxSP
 - RG28xx
-- RG35xx+_P
+- RG35xxplus / 2024
 - RG35xxH
 - RG35xxSP
 - RG40xxH
 - RG40xxV
 - RG35xxPRO
+- RGsp
 
 ## Usage
 
